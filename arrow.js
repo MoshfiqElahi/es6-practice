@@ -25,7 +25,7 @@ const add = (x, y) => x + y;
 const addResult = add(10, 30)
 console.log(addResult)
 
-//No parametre added here!
+//No parameter added here!
 const give5 = () => 5
 const result2 = give5()
 console.log(result2)

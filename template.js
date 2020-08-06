@@ -9,8 +9,8 @@ console.log(fullNameTwo)
 
 
 const multiline = "I love you\n" //  \n for new line. This system is old.
-+ "I miss you\n"
-+ "I want to marry you"
+    + "I miss you\n"
+    + "I want to marry you"
 console.log(multiline)
 
 // Its the power of single quotation. and also new system of ES6
