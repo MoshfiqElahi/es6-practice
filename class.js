@@ -1,4 +1,6 @@
-class Student {
+// 23.7
+
+class Student {  //class will be upperClass. Write Student not student
     constructor(sId, sName){
         this.id = sId;
         this.name = sName;
